@@ -1,5 +1,5 @@
 # ConditionalOnUser
-Spring Boot | Create a custom conditionalOn annotation
+Spring Boot | Create a custom conditionalOn annotation | Example
 
 ## Implement Condition interface
 ```java 
