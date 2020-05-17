@@ -27,8 +27,5 @@ public Response response() {
 }
 ```
 
-### Prerequisites:
-    Java 8+
-
 ### Build instructions
     mvn clean install
