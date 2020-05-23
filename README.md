@@ -28,4 +28,4 @@ public Response response() {
 ```
 
 ### Build instructions
-    mvn clean install
+mvn clean install
