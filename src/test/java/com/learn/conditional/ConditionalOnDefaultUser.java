@@ -47,7 +47,10 @@ class ConditionalOnDefaultUser {
 				applicationContext.getBean(Response.class);
 				fail();
 			}catch(NoSuchBeanDefinitionException e) {
-				assertTrue(true);
+				/* 
+				 * Expected behaviour
+				 * Test success
+				 */
 			}
 	}
 
