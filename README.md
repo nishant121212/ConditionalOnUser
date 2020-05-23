@@ -1,5 +1,6 @@
 # ConditionalOnUser
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/18ae51a82df047889d5872ae1928d69d)](https://app.codacy.com/manual/nishantrajput1212/ConditionalOnUser?utm_source=github.com&utm_medium=referral&utm_content=nishant121212/ConditionalOnUser&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/18ae51a82df047889d5872ae1928d69d)](https://app.codacy.com/manual/nishantrajput1212/ConditionalOnUser?utm_source=github.com&utm_medium=referral&utm_content=nishant121212/ConditionalOnUser&utm_campaign=Badge_Grade_Dashboard)
 
 Spring Boot | Create a custom conditionalOn annotation | Example
