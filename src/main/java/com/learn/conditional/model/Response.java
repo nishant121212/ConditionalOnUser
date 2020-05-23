@@ -7,12 +7,12 @@ package com.learn.conditional.model;
  */
 public class Response {
 	
+	private String code;
+	
 	public Response(String code) {
 		super();
 		this.code = code;
 	}
-	
-	private String code;
 
 	public String getCode() {
 		return code;
